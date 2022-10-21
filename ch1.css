@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+h2{
+    text-align: center;
+}
+
+img{
+    margin: 23px;
+}
+
+.emoji{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.im{
+    width: 124px;
+}
